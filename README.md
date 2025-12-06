@@ -66,13 +66,13 @@ Simply browse the notebook directly on GitHub (it renders automatically)
 ### Option 2: Run Locally
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/walmart-advertising-analytics.git
+git clone https://github.com/YOUR_USERNAME/marketing_Performance.git
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn jupyter
 
 # Launch Jupyter
-jupyter notebook Performance_Metrics_Analysis_EN.ipynb
+jupyter notebook 01_Online_Ad_Performance_Metrics_Analysis.ipynb
 ```
 
 ## Methodology
